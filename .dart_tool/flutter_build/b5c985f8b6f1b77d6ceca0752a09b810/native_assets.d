@@ -1,0 +1,1 @@
+ /Users/mtirao/Workspace/Xcode/Wanaka/wanaka_data_manager/.dart_tool/flutter_build/b5c985f8b6f1b77d6ceca0752a09b810/native_assets.yaml: 

@@ -1,0 +1,1 @@
+ /Users/mtirao/Workspace/dart/wanaka_data_manager/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/mtirao/Workspace/dart/wanaka_data_manager/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/mtirao/Workspace/dart/wanaka_data_manager/l10n.yaml /Users/mtirao/Workspace/dart/wanaka_data_manager/lib/src/localization/app_en.arb
